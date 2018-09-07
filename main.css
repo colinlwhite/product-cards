@@ -1,5 +1,5 @@
 .dark-primary-color    { 
-    background: #616161; 
+    background: black; 
 }
 
 .mainDiv {
@@ -13,7 +13,7 @@
     border: 1px solid lightblue; 
     width: 30%;
     margin-top: 3%;
-    box-shadow: 10px 5px 30px #FFC107;
+    box-shadow: 10px 5px 30px silver;
     background: #F5F5F5; 
 }
 
@@ -26,11 +26,13 @@ img {
 
 .productTitle {
     text-align: center;
+    font-family: 'Sawarabi Gothic', sans-serif;
 }
 
 .productDescription {
     text-align: justify;
     padding: 0 15px 0 15px;
+    font-family: 'Sawarabi Gothic', sans-serif;
 }
 
 .availability {
@@ -38,13 +40,14 @@ img {
     color: yellow;
     padding: 7px 0 7px 5px;
     font-size: 15px;
-    font-family: helvetica;
+    font-family: 'Sawarabi Gothic', sans-serif;
 }
 
 .spec {
     font-weight: bold;
     padding-left: 8px;
     margin-bottom: -16px;
+    font-family: 'Sawarabi Gothic', sans-serif;
 }
 
 .price {
@@ -52,16 +55,19 @@ img {
     padding-left: 8px;
     margin-bottom: -16px;
     margin-top: -1px;
+    font-family: 'Sawarabi Gothic', sans-serif;
 }
 
 li {
     list-style: none;
     font-weight: bold;
+    font-family: 'Sawarabi Gothic', sans-serif;
 }
 
 footer {
     margin-left: 4px;
     font-size: 13px;
+    font-family: 'Sawarabi Gothic', sans-serif;
 }
 
 .lastSpec {
