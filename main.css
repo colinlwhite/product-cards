@@ -1,5 +1,5 @@
-body {
-    background-color: white;
+.dark-primary-color    { 
+    background: #616161; 
 }
 
 .mainDiv {
@@ -13,7 +13,8 @@ body {
     border: 1px solid lightblue; 
     width: 30%;
     margin-top: 3%;
-    box-shadow: 10px 5px 30px black;
+    box-shadow: 10px 5px 30px #FFC107;
+    background: #F5F5F5; 
 }
 
 img {
