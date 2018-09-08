@@ -18,7 +18,7 @@
 }
 
 img {
-    max-width: 300px;
+    max-width: 375px;
     max-height: 500px;
     display: block;
     margin: auto;
@@ -76,4 +76,8 @@ footer {
 
 .lastPrice {
     margin-bottom: -15px; 
+}
+
+.soldOut {
+    position: absolute;
 }
