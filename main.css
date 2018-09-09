@@ -81,3 +81,9 @@ footer {
 .soldOut {
     position: absolute;
 }
+
+@media (max-width: 1000px) {
+    .productCard {
+        flex: 1 87%;
+    }
+}
